@@ -1,0 +1,8 @@
+.titleRight {
+  text-align: right;
+}
+
+.universityInfo {
+  display: flex;
+  gap: 32px;
+}

@@ -1,0 +1,21 @@
+.popup_wrapper {
+    text-align: center;
+}
+
+.h2 {
+    text-transform: uppercase;
+    margin-top: 24px;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 24px;
+}
+
+.input {
+    width: 100%;
+    padding: 16px;
+    border: 1px solid #424242;
+}
+
+.grayButton {
+    background-color: #BDBDBD;
+}
